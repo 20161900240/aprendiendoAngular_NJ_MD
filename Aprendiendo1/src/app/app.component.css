@@ -1,0 +1,19 @@
+.amor{
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    background-color: salmon;
+    width: 50%;
+    margin-left: 25%;
+    border: sienna solid 2px;
+    border-radius: 25%;
+
+}
+
+body{
+    text-align: center;
+    background-color: blueviolet;
+    align-items: center;
+    padding: 10px;
+
+}
